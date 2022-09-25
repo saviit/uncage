@@ -2,7 +2,7 @@
     "name": "Uncage",
     "action": {},
     "manifest_version": 3,
-    "version": "0.3",
+    "version": "0.4",
     "description": "Uncage Twitter browsing on the desktop.",
     "content_scripts": [
       {
