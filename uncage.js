@@ -4,6 +4,7 @@ var config = { attributes: true, childList: true, characterData: true }
 
 window.onload = function() {
     prompts = document.getElementById("layers");
+    prompts.style.display = "none";
     docHtml = document.querySelector("html");
 }
 
